@@ -1,16 +1,17 @@
-## Hi there 👋
+# Merhaba, Ben Rüveyda Can! 👋
 
-<!--
-**ruveydacan/ruveydacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ankara Medipol Üniversitesi Arka-Yüz Yazılım Geliştirme bölümünde Yüksek Onur Öğrencisi olarak eğitimime devam ediyorum. Güçlü bir algoritmik temel ve yazılım mimarisi oluşturmaya odaklanarak, kariyer yolculuğumu DGS ile **Bilgisayar / Yazılım Mühendisliği** lisans programına taşımayı hedefliyorum.
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda
+- 🎓 **Eğitim:** Ankara Medipol Üniversitesi - Arka-Yüz Yazılım Geliştirme (Ön Lisans)
+- 🎯 **Hedef:** Bilgisayar Mühendisliği / Yazılım Mühendisliği (Computer & Software Engineering)
+- 💻 **İlgi Alanları:** Arka-Yüz (Backend) Mimarı, Nesne Yönelimli Programlama (OOP), Veri Yapıları ve Algoritmalar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Teknolojiler & Araçlar
+- **Programlama Dilleri:** C#, Python (İleri Seviye), SQL, JavaScript
+- **Web Teknolojileri:** HTML5, CSS3, Web Programlama Temelleri
+- **Araçlar & Sistemler:** Git, GitHub, VS Code, Visual Studio, Sunucu İşletim Sistemleri
+
+## 📊 GitHub İstatistiklerim
+![Rüveyda's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruveydacan&show_icons=true&theme=radial)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruveydacan&layout=compact&theme=radial)
