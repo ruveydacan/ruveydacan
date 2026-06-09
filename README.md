@@ -11,8 +11,3 @@ Ankara Medipol Üniversitesi Arka-Yüz Yazılım Geliştirme bölümünde Yükse
 - **Programlama Dilleri:** C#, Python (İleri Seviye), SQL, JavaScript
 - **Web Teknolojileri:** HTML5, CSS3, Web Programlama Temelleri
 - **Araçlar & Sistemler:** Git, GitHub, VS Code, Visual Studio, Sunucu İşletim Sistemleri
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruveydacan&show_icons=true&theme=tokyonight" alt="Rüveyda's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruveydacan&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
